@@ -3,7 +3,7 @@
   "version": "3.1.0",
   "description": "A Reactotron plugin for mobx-state-tree.",
   "author": "Infinite Red",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/infinitered/reactotron-mst/issues"
   },
