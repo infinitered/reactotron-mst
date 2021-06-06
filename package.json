@@ -45,7 +45,7 @@
     "@babel/preset-typescript": "^7.1.0",
     "@semantic-release/git": "^7.1.0-beta.3",
     "@types/jest": "^24.0.6",
-    "@types/lodash.camelcase": "^4.3.5",
+    "@types/lodash.camelcase": "4.3.6",
     "@types/node": "^11.9.5",
     "@types/ramda": "^0.25.50",
     "babel-eslint": "^10.0.1",
